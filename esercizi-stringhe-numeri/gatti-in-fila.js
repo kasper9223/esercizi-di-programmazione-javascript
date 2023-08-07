@@ -17,3 +17,10 @@
 
   http://www.imparareaprogrammare.it
 */
+var a = 44;
+var b = 6;
+var c = a/b;
+var d = 6*Math.ceil(c)
+var e = d-a
+console.log(Math.ceil(c))
+console.log(e)
